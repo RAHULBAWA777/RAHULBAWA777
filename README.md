@@ -1,4 +1,5 @@
 ## Sup?    I'm Rahul Kumar  👋
+Pre Final Year B-Tech Student
 
 <!--
 **RAHULBAWA777/RAHULBAWA777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
