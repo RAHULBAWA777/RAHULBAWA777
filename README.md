@@ -1,6 +1,6 @@
 ## Sup?    I'm Rahul Kumar  👋
- Final Year B-Tech Student
-I'm a CSE student and currently looking for internship
+-Final Year B-Tech Student
+-I'm a CSE student and currently looking for internship
 <!--
 **RAHULBAWA777/RAHULBAWA777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
